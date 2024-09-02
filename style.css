@@ -1,0 +1,12 @@
+*{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: aquamarine;
+}
+.container{
+    width: 50vh;
+    height: 50vh;
+    background-color: blueviolet;
+    left: 50px;
+}
